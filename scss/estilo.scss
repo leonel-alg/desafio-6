@@ -1,0 +1,34 @@
+*{
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+}
+$letras: white ;
+
+@import "footer" ;
+
+h1{
+    color:  red;
+    text-align: center;
+    background-color: aqua;
+}
+
+h2{
+    color: aquamarine;
+}
+.img{
+   text-align: center;
+}
+
+section{
+    text-align: center;
+    h2{
+        color: brown;
+        background-color:burlywood;
+    }
+    p{
+        text-align:justify;
+        color: $letras;
+    }
+}
+

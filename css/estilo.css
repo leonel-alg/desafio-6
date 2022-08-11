@@ -1,0 +1,31 @@
+* {
+  background-color: black;
+  margin: 0%;
+  padding: 0%; }
+
+footer div {
+  background-color: coral;
+  text-align: center; }
+
+footer img {
+  width: 50px; }
+
+h1 {
+  color: red;
+  text-align: center;
+  background-color: aqua; }
+
+h2 {
+  color: aquamarine; }
+
+.img {
+  text-align: center; }
+
+section {
+  text-align: center; }
+  section h2 {
+    color: brown;
+    background-color: burlywood; }
+  section p {
+    text-align: justify;
+    color: white; }
